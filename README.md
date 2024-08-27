@@ -5,9 +5,6 @@ A lightweight inventory management system built with Next.js and Firebase.
 
 ## Key Features
 - Real-time inventory tracking
-- Barcode scanning support
-- Sales module with reporting
-- Multi-user support with roles
 
 ## Getting Started
 1. Clone repo:
@@ -25,5 +22,5 @@ A lightweight inventory management system built with Next.js and Firebase.
 - Frontend: Next.js
 - Backend: Node.js
 - Database: Firebase
-- UI: Material UI or MUI
+- UI: React + MUI
 
