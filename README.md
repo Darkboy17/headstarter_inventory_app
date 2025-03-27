@@ -13,12 +13,12 @@ A lightweight inventory management system built with Next.js and Firebase.
 
 ## Getting Started
 1. Clone repo:
- `git clone https://github.com/username/inventory-app.git`
+ `https://github.com/Darkboy17/headstarter_inventory_app.git`
  
 2. Install deps: 
 `npm install`
 
-3. Setup env vars (`.env` file)
+3. Setup env variable (`.env` file)
 
 4. Run:
  `npm start`
